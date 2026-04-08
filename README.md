@@ -1,4 +1,5 @@
-# Healthcare Financial Dashboard (Excel)
+# Healthcare Financial Performance Analysis (Excel Dashboard)
+End-to-end analysis of a healthcare center’s financial performance using Excel dashboards and business insights.
 
 ## Business Problem
 Analyze the financial performance of a healthcare center to identify revenue trends, payment behavior, and key business risks.
